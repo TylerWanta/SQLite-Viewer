@@ -1,2 +1,2 @@
 # SQLite Viewer
-Used to upload and view a SQLite .db file
+Enables uplaoding and viewing of a SQLite .db file
